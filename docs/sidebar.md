@@ -4,6 +4,6 @@
 * [JS](/js/)
 * [计算机网络](/network/)
 * [数据结构与算法](/DataStructure/)
-* [浏览器](/brower/)
+* **浏览器**
     * [chrome的架构组成](/brower/framework)
     * [输入URL后浏览器的操作](/brower/url-load)
